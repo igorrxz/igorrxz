@@ -1,4 +1,4 @@
-### Olá, sou Igor Ximenes! 👋
+### Olá, sou o Igor Ximenes! 👋
 
 ## Sobre Mim
 Estou entusiasmado em compartilhar com vocês minha paixão pelo mundo da programação. Com formação em Bacharelado em Ciência da Computação, adquiri uma sólida base teórica em algoritmos, estruturas de dados e programação. No entanto, minha busca por conhecimento não para por aí. Atualmente, dedico grande parte do meu tempo livre à constante evolução e aprimoramento de minhas habilidades em programação.
