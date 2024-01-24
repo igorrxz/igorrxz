@@ -1,16 +1,29 @@
-### Hi there 👋
+### Olá, sou Igor Ximenes! 👋
 
-<!--
-**igorrxz/igorrxz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#Bem-vindo ao meu perfil GitHub!
 
-Here are some ideas to get you started:
+## Sobre Mim
+Sou um desenvolvedor apaixonado por criar e aprender. Atualmente, estou trabalhando com Java, Spring Boot, JavaScript e Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias que eu uso
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+
+## Estatísticas do GitHub
+![Seu Nome's GitHub stats](https://github-readme-stats.vercel.app/api?username=igorrxz&show_icons=true&theme=radical)
+
+## Total de Commits
+![Total Commits](https://badgen.net/github/commits/igorrxz)
+
+## Total de Estrelas
+![Stars](https://badgen.net/github/stars/igorrxz)
+
+## Entre em Contato
+- 📧 igorrx24072004@gmail.com
+- 📱 +55 81 99669-7908
+
+---
+
+⭐️ From [igorrxz](https://github.com/igorrxz)
