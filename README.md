@@ -48,4 +48,11 @@
 🗃️ Database:         MySQL, MongoDB, Prisma
 ☁️ Tools & DevOps:   Git, GitHub, Figma, Postman, Vercel
 ```
-<p align="center"> <a href="mailto:igorrx24072004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a> <a href="https://wa.me/5581996697908"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a> <a href="https://www.linkedin.com/in/igor-ximenes-de-oliveira-rocha-84859226b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="https://portfolio-ximenes.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/></a></p>
+### 📬 Contact Me
+
+<p align="center">
+  <a href="mailto:igorrx24072004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://wa.me/5581996697908"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+  <a href="https://www.linkedin.com/in/igor-ximenes-de-oliveira-rocha-84859226b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://portfolio-ximenes.netlify.app"><img src="https://img.shields.io/badge/Portfolio-4CAF50?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+</p>
