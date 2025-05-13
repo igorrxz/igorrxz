@@ -49,10 +49,10 @@
 ☁️ Tools & DevOps:   Git, GitHub, Figma, Postman, Vercel
 ```
 
-<h2 align="center">🐍 Snake comendo meus contribs 🐍</h2>
+<h2>GitHub Contribution Activity Graph</h2>
 
 <p align="center">
-  <img src="https://github.com/igorrxz/igorrxz/blob/output/github-contribution-grid-snake.gif?raw=true" alt="snake gif" />
+  <img src="https://github.com/igorrxz/igorrxz/blob/output/github-contribution-grid-snake.gif?raw=true" alt="GitHub contribution snake" />
 </p>
 
 ### 📬 Contact Me
