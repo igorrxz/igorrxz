@@ -48,6 +48,9 @@
 🗃️ Database:         MySQL, MongoDB, Prisma
 ☁️ Tools & DevOps:   Git, GitHub, Figma, Postman, Vercel
 ```
+
+![snake gif](https://github.com/igorrxz/igorrxz/blob/output/github-contribution-grid-snake.gif)
+
 ### 📬 Contact Me
 
 <p align="center">
