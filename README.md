@@ -50,12 +50,10 @@
 ```
 ### 📬 Contact Me
 
-### 📬 Contact Me
-
 <p align="center">
   <a href="mailto:igorrx24072004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="https://wa.me/5581996697908"><img src="https://img.shields.io/badge/WhatsApp-2AB774?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
   <a href="https://www.linkedin.com/in/igor-ximenes-de-oliveira-rocha-84859226b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://portfolio-ximenes.netlify.app"><img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://portfolio-ximenes.netlify.app"><img src="https://img.shields.io/badge/Portfolio-3AAFA9?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/></a>
 </p>
 
