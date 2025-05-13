@@ -2,9 +2,8 @@
   <img src="https://raw.githubusercontent.com/igorrxz/old-profile-readme/master/name.svg" alt="Igor Ximenes" />
 </h1>
 
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+in+the+making;Passionate+about+technology+and+innovation;Always+looking+for+new+challenges&color=9B59B6" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+in+the+making;Passionate+about+technology+and+innovation;Always+looking+for+new+challenges&color=00BFFF" alt="Typing SVG" />
 </p>
 
 ---
