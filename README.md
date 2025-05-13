@@ -1,27 +1,5 @@
-<p align="center">
-  <svg width="100%" height="100" viewBox="0 0 1000 100" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <linearGradient id="gradient" x1="0%" y1="50%" x2="100%" y2="50%">
-        <stop offset="0%" stop-color="#8A2BE2">
-          <animate attributeName="stop-color" values="#8A2BE2; #00FFFF; #8A2BE2" dur="4s" repeatCount="indefinite"/>
-        </stop>
-        <stop offset="100%" stop-color="#00FFFF">
-          <animate attributeName="stop-color" values="#00FFFF; #8A2BE2; #00FFFF" dur="4s" repeatCount="indefinite"/>
-        </stop>
-      </linearGradient>
-      <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
-        <feGaussianBlur stdDeviation="3.5" result="coloredBlur"/>
-        <feMerge>
-          <feMergeNode in="coloredBlur"/>
-          <feMergeNode in="SourceGraphic"/>
-        </feMerge>
-      </filter>
-    </defs>
-    <text x="50%" y="65%" dominant-baseline="middle" text-anchor="middle" font-family="Fira Code, monospace" font-size="40" fill="url(#gradient)" filter="url(#glow)">
-      Igor Ximenes
-    </text>
-  </svg>
-</p>
+<h1 align="center" style="font-size: 3em; color: #00bfff; margin-bottom: 0;">Igor Ximenes</h1>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+in+the+making;Passionate+about+technology+and+innovation;Always+looking+for+new+challenges" alt="Typing SVG" />
@@ -52,7 +30,7 @@
 <h2>GitHub Contribution Activity Graph</h2>
 
 <p align="center">
-  <img src="https://github.com/igorrxz/igorrxz/blob/output/github-contribution-grid-snake.gif?raw=true" alt="GitHub contribution snake" />
+  <img src="https://github.com/igorrxz/igorrxz/blob/output/github-contribution-grid-snake.svg?raw=true" alt="GitHub contribution snake" />
 </p>
 
 ### 📬 Contact Me
