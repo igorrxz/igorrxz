@@ -1,4 +1,6 @@
-<h1 align="center" style="font-size: 3em; color: #00bfff; margin-bottom: 0;">Igor Ximenes</h1>
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/igorrxz/old-profile-readme/master/name.svg" alt="Igor Ximenes" />
+</h1>
 
 
 <p align="center">
