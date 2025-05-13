@@ -9,33 +9,20 @@
 ---
 
 <p align="center">
-Hey!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 </p>
 
 <p align="center">
-  I'm Igor Ximenes, a 20 years old web developer from Brazil.
-</p>
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=igorrxz&show_icons=true&count_private=true&theme=tokyonight" alt="Igor Ximenes GitHub stats" />
+  I'm Igor Ximenes, a 20-year-old web developer from Brazil. I’m passionate about turning ideas into digital experiences that solve real-world problems.
 </p>
 
 ---
 
-## 🛠️ Skills
+### 🚀 Tech Stack
 
-- 👨‍💻 Node.js, JavaScript, Java
-- ⚙️ React, Prisma
-- 💽 MySQL, SQL, MongoDB
-
----
-
-## 📬 Contact Me
-
-- 📧 igorrx24072004@gmail.com  
-- 📱 +55 81 99669-7908
-
----
-
-⭐️ From [igorrxz](https://github.com/igorrxz)
+```plaintext
+💻 Languages:        JavaScript, Java
+🌐 Frontend:         HTML, CSS, React
+🛠️ Backend:          Node.js, Express, Java + SpringBoot
+🗃️ Database:         MySQL, MongoDB, Prisma
+☁️ Tools & DevOps:   Git, GitHub, Figma, Postman, Vercel
