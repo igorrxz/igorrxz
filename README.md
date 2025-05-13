@@ -1,5 +1,26 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/igorrxz/martonlederer/main/igorximenes.svg" alt="Igor Ximenes" />
+  <svg width="100%" height="100" viewBox="0 0 1000 100" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="gradient" x1="0%" y1="50%" x2="100%" y2="50%">
+        <stop offset="0%" stop-color="#8A2BE2">
+          <animate attributeName="stop-color" values="#8A2BE2; #00FFFF; #8A2BE2" dur="4s" repeatCount="indefinite"/>
+        </stop>
+        <stop offset="100%" stop-color="#00FFFF">
+          <animate attributeName="stop-color" values="#00FFFF; #8A2BE2; #00FFFF" dur="4s" repeatCount="indefinite"/>
+        </stop>
+      </linearGradient>
+      <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+        <feGaussianBlur stdDeviation="3.5" result="coloredBlur"/>
+        <feMerge>
+          <feMergeNode in="coloredBlur"/>
+          <feMergeNode in="SourceGraphic"/>
+        </feMerge>
+      </filter>
+    </defs>
+    <text x="50%" y="65%" dominant-baseline="middle" text-anchor="middle" font-family="Fira Code, monospace" font-size="40" fill="url(#gradient)" filter="url(#glow)">
+      Igor Ximenes
+    </text>
+  </svg>
 </p>
 
 <p align="center">
