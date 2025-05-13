@@ -1,6 +1,6 @@
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Igor Ximenes" />
-</h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/igorrxz/martonlederer/main/igorximenes.svg" alt="Igor Ximenes" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+in+the+making;Passionate+about+technology+and+innovation;Always+looking+for+new+challenges" alt="Typing SVG" />
@@ -8,9 +8,14 @@
 
 ---
 
-## Hey! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
+<p align="center">
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+</p>
 
-I'm Igor Ximenes, a 20 years old web developer from Brazil.
+<p align="center">
+  I'm Igor Ximenes, a 20 years old web developer from Brazil.
+</p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=igorrxz&show_icons=true&count_private=true&theme=tokyonight" alt="Igor Ximenes GitHub stats" />
