@@ -39,7 +39,7 @@
 
 ---
 
-### 🚀 Tech Stack
+<p align="center">🚀 Tech Stack</p>
 
 ```plaintext
 💻 Languages:        JavaScript, Java
@@ -48,7 +48,7 @@
 🗃️ Database:         MySQL, MongoDB, Prisma
 ☁️ Tools & DevOps:   Git, GitHub, Figma, Postman, Vercel
 ```
-### 📬 Contact Me
+<p align="center">📬 Contact Me </p>
 
 <p align="center">
   <a href="mailto:igorrx24072004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
