@@ -1,21 +1,34 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="igorrxz" />
+  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Igor Ximenes" />
+</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=true&width=500&lines=Full+stack+developer+under+construction;Always+looking+for+new+challenges)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+in+the+making;Passionate+about+technology+and+innovation;Always+looking+for+new+challenges" alt="Typing SVG" />
+</p>
+
+---
 
 ## Hey! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
-  
+
 I'm Igor Ximenes, a 20 years old web developer from Brazil.
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=igorrxz&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="igorrxz's Github Stats">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=igorrxz&show_icons=true&count_private=true&theme=tokyonight" alt="Igor Ximenes GitHub stats" />
+</p>
 
-## Skills
-- 👨‍💻 NodeJs, JavaScript, Java, etc...
-- ⚙️ React, Prisma, 
-- 💽 MySQL, SQL, Mongo
+---
 
-## Entre em Contato
-- 📧 igorrx24072004@gmail.com
+## 🛠️ Skills
+
+- 👨‍💻 Node.js, JavaScript, Java
+- ⚙️ React, Prisma
+- 💽 MySQL, SQL, MongoDB
+
+---
+
+## 📬 Contact Me
+
+- 📧 igorrx24072004@gmail.com  
 - 📱 +55 81 99669-7908
 
 ---
