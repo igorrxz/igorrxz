@@ -9,7 +9,7 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+  Hey! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 </p>
 
 <p align="center">
@@ -26,3 +26,5 @@
 🛠️ Backend:          Node.js, Express, Java + SpringBoot
 🗃️ Database:         MySQL, MongoDB, Prisma
 ☁️ Tools & DevOps:   Git, GitHub, Figma, Postman, Vercel
+```
+<p align="center"> <a href="mailto:igorrx24072004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a> <a href="https://wa.me/5581996697908"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a> <a href="https://www.linkedin.com/in/seu-perfil"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> </p>
