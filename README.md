@@ -36,7 +36,7 @@
 
 <h2 align="center">GitHub Activity Graph</h2>
 
-<p align="center">
+<p>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=igorrxz&theme=tokyo-night&point=ffffff&line=00BFFF&hide_border=true" alt="Activity Graph"/>
 </p>
 
