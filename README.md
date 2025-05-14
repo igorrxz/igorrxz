@@ -28,13 +28,13 @@
 ☁️ Tools & DevOps:   Git, GitHub, Figma, Postman, Vercel
 ```
 
-<h2>GitHub Contribution Activity Graph</h2>
+<h2>💹 GitHub Contribution Activity Graph</h2>
 
 <p align="center">
   <img src="https://github.com/igorrxz/igorrxz/blob/output/github-contribution-grid-snake.svg?raw=true" alt="GitHub contribution snake" />
 </p>
 
-<h2>GitHub Activity Graph</h2>
+<h2>📉 GitHub Activity Graph</h2>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=igorrxz&theme=tokyo-night&point=ffffff&line=00BFFF&hide_border=true" alt="Activity Graph"/>
