@@ -40,7 +40,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=igorrxz&theme=tokyo-night&point=ffffff&line=00BFFF&hide_border=true" alt="Activity Graph"/>
 </p>
 
-### 📬 Contact Me
+<h2 align="center">📬 Contact Me</h2>  
 
 <p align="center">
   <a href="mailto:igorrx24072004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
