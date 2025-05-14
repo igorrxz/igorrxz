@@ -9,7 +9,7 @@
 ---
 
 <p align="center">
-  Hey! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+  <h3 align="center">Hey! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></h1>  
 </p>
 
 <p align="center">
