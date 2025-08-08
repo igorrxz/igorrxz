@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  I'm Igor Ximenes, a 20-year-old web developer from Brazil. I’m passionate about turning ideas into digital experiences that solve real-world problems.
+  I'm Igor Ximenes, a 20-year-old web developer from Brazil. I’m passionate about turning ideas into digital experiences that solve real-world problems. At the moment i'm working as a technical assistant at Deloitte.
 </p>
 
 ---
