@@ -26,7 +26,7 @@
 🛠️ Backend:          Node.js, Express, Java + SpringBoot
 🗃️ Database:         MySQL, MongoDB, Prisma
 ☁️ Tools & DevOps:   Git, GitHub, Figma, Postman, Vercel
-💼 Enterprise:        SAP ERP, SAP ABAP
+💼 Enterprise:       SAP ERP, SAP ABAP
 ```
 
 <h2>💹 GitHub Contribution Activity Graph</h2>
